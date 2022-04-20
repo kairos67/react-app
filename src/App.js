@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   let posts = { color: "cyan", fontSize: "50px" };
   function 함수() {
-    return "   개발블로그";
+    return "  개발블로그";
   }
   return (
     <div className="App">
