@@ -133,6 +133,7 @@ function App() {
     { id: 1, title: "html", body: "html is..." },
     { id: 2, title: "css", body: "css is..." },
     { id: 3, title: "javascript", body: "js is..." },
+    { id: 4, title: "Sever", body: "server API get test.." },
   ]);
 
   let content = null;
